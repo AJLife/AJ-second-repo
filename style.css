@@ -4,4 +4,7 @@ p{
 } h1 , h2 , h3 {
     color: aliceblue;
     background-color: black;
+} h6{
+    background-color: azure;
+    color: aqua;
 }
